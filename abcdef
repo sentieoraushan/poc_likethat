@@ -116,7 +116,7 @@
 "The markdown for the above badge is the following:\n",
 "\n",
 "```markdown\n",
-"[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)\n",
+"[![Open In Colab &nbsp;](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)\n",
 "```\n",
 "\n",
 "The HTML equivalent is:\n",
@@ -127,7 +127,7 @@
 "</a>\n",
 "```\n",
 "\n",
-"Remember to replace the notebook URL in this template with the notebook you want to link to."
+"Remember to &nbsp; replace the notebook URL in this template with the notebook you want to link to."
 ]
 },
 {
